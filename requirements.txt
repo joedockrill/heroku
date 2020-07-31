@@ -9,3 +9,7 @@ https://download.pytorch.org/whl/cpu/torchvision-0.6.1%2Bcpu-cp36-cp36m-linux_x8
 fastai
 ipywidgets
 voila
+urllib
+pandas
+numpy
+sklearn
